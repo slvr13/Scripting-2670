@@ -1,0 +1,17 @@
+/Users/mitch/Spaceship Shooter/Temp/bin/Debug/UnityEngine.dll
+/Users/mitch/Spaceship Shooter/Temp/bin/Debug/UnityEditor.dll
+/Users/mitch/Spaceship Shooter/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/mitch/Spaceship Shooter/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/mitch/Spaceship Shooter/Temp/bin/Debug/Mono.Cecil.dll
+/Users/mitch/Spaceship Shooter/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/mitch/Spaceship Shooter/Temp/bin/Debug/Unity.DataContract.dll
+/Users/mitch/Spaceship Shooter/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/mitch/Spaceship Shooter/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/mitch/Spaceship Shooter/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/mitch/Spaceship Shooter/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/mitch/Spaceship Shooter/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/mitch/Spaceship Shooter/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+/Users/mitch/Spaceship Shooter/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/mitch/Spaceship Shooter/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/mitch/Spaceship Shooter/obj/Debug/Assembly-CSharp.dll
+/Users/mitch/Spaceship Shooter/obj/Debug/Assembly-CSharp.dll.mdb
